@@ -8,21 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */; };
-		FA4142DF2FE2E998001E4157 /* Oswald-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA4142D82FE2E998001E4157 /* Oswald-VariableFont_wght.ttf */; };
-		FA4142E02FE2E998001E4157 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4142D02FE2E998001E4157 /* Assets.xcassets */; };
-		FA4142E12FE2E998001E4157 /* AnalyticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142CF2FE2E998001E4157 /* AnalyticsView.swift */; };
-		FA4142E22FE2E998001E4157 /* TournamentWizard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142DD2FE2E998001E4157 /* TournamentWizard.swift */; };
-		FA4142E32FE2E998001E4157 /* TournamentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142DB2FE2E998001E4157 /* TournamentDetailView.swift */; };
-		FA4142E42FE2E998001E4157 /* LiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D52FE2E998001E4157 /* LiveView.swift */; };
-		FA4142E52FE2E998001E4157 /* StrategyGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142DA2FE2E998001E4157 /* StrategyGuideView.swift */; };
-		FA4142E62FE2E998001E4157 /* MyBookieChampPredictorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D72FE2E998001E4157 /* MyBookieChampPredictorApp.swift */; };
-		FA4142E72FE2E998001E4157 /* TournamentStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142DC2FE2E998001E4157 /* TournamentStore.swift */; };
-		FA4142E82FE2E998001E4157 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D62FE2E998001E4157 /* Models.swift */; };
-		FA4142E92FE2E998001E4157 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D42FE2E998001E4157 /* HomeView.swift */; };
-		FA4142EA2FE2E998001E4157 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D92FE2E998001E4157 /* RootView.swift */; };
-		FA4142EB2FE2E998001E4157 /* BracketCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D12FE2E998001E4157 /* BracketCalculatorView.swift */; };
-		FA4142EC2FE2E998001E4157 /* DesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D22FE2E998001E4157 /* DesignSystem.swift */; };
-		FA4142ED2FE2E998001E4157 /* GroupStageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142D32FE2E998001E4157 /* GroupStageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,21 +27,6 @@
 		CE7115342E6F0AB000BFCB5A /* AppTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7115A42E6F181600BFCB5A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEF3187B2E72A659004E27D7 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
-		FA4142CF2FE2E998001E4157 /* AnalyticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsView.swift; sourceTree = "<group>"; };
-		FA4142D02FE2E998001E4157 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FA4142D12FE2E998001E4157 /* BracketCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BracketCalculatorView.swift; sourceTree = "<group>"; };
-		FA4142D22FE2E998001E4157 /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
-		FA4142D32FE2E998001E4157 /* GroupStageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupStageView.swift; sourceTree = "<group>"; };
-		FA4142D42FE2E998001E4157 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		FA4142D52FE2E998001E4157 /* LiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveView.swift; sourceTree = "<group>"; };
-		FA4142D62FE2E998001E4157 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
-		FA4142D72FE2E998001E4157 /* MyBookieChampPredictorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBookieChampPredictorApp.swift; sourceTree = "<group>"; };
-		FA4142D82FE2E998001E4157 /* Oswald-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oswald-VariableFont_wght.ttf"; sourceTree = "<group>"; };
-		FA4142D92FE2E998001E4157 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
-		FA4142DA2FE2E998001E4157 /* StrategyGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrategyGuideView.swift; sourceTree = "<group>"; };
-		FA4142DB2FE2E998001E4157 /* TournamentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TournamentDetailView.swift; sourceTree = "<group>"; };
-		FA4142DC2FE2E998001E4157 /* TournamentStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TournamentStore.swift; sourceTree = "<group>"; };
-		FA4142DD2FE2E998001E4157 /* TournamentWizard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TournamentWizard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -81,7 +51,6 @@
 		CE71152B2E6F0AB000BFCB5A = {
 			isa = PBXGroup;
 			children = (
-				FA4142DE2FE2E998001E4157 /* MyBookie Champ Predictor */,
 				CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */,
 				CE7115362E6F0AB000BFCB5A /* AppTemplate */,
 				CE7115352E6F0AB000BFCB5A /* Products */,
@@ -103,28 +72,6 @@
 				CEF3187B2E72A659004E27D7 /* UserNotifications.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		FA4142DE2FE2E998001E4157 /* MyBookie Champ Predictor */ = {
-			isa = PBXGroup;
-			children = (
-				FA4142CF2FE2E998001E4157 /* AnalyticsView.swift */,
-				FA4142D02FE2E998001E4157 /* Assets.xcassets */,
-				FA4142D12FE2E998001E4157 /* BracketCalculatorView.swift */,
-				FA4142D22FE2E998001E4157 /* DesignSystem.swift */,
-				FA4142D32FE2E998001E4157 /* GroupStageView.swift */,
-				FA4142D42FE2E998001E4157 /* HomeView.swift */,
-				FA4142D52FE2E998001E4157 /* LiveView.swift */,
-				FA4142D62FE2E998001E4157 /* Models.swift */,
-				FA4142D72FE2E998001E4157 /* MyBookieChampPredictorApp.swift */,
-				FA4142D82FE2E998001E4157 /* Oswald-VariableFont_wght.ttf */,
-				FA4142D92FE2E998001E4157 /* RootView.swift */,
-				FA4142DA2FE2E998001E4157 /* StrategyGuideView.swift */,
-				FA4142DB2FE2E998001E4157 /* TournamentDetailView.swift */,
-				FA4142DC2FE2E998001E4157 /* TournamentStore.swift */,
-				FA4142DD2FE2E998001E4157 /* TournamentWizard.swift */,
-			);
-			path = "MyBookie Champ Predictor";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,8 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */,
-				FA4142DF2FE2E998001E4157 /* Oswald-VariableFont_wght.ttf in Resources */,
-				FA4142E02FE2E998001E4157 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,19 +152,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA4142E12FE2E998001E4157 /* AnalyticsView.swift in Sources */,
-				FA4142E22FE2E998001E4157 /* TournamentWizard.swift in Sources */,
-				FA4142E32FE2E998001E4157 /* TournamentDetailView.swift in Sources */,
-				FA4142E42FE2E998001E4157 /* LiveView.swift in Sources */,
-				FA4142E52FE2E998001E4157 /* StrategyGuideView.swift in Sources */,
-				FA4142E62FE2E998001E4157 /* MyBookieChampPredictorApp.swift in Sources */,
-				FA4142E72FE2E998001E4157 /* TournamentStore.swift in Sources */,
-				FA4142E82FE2E998001E4157 /* Models.swift in Sources */,
-				FA4142E92FE2E998001E4157 /* HomeView.swift in Sources */,
-				FA4142EA2FE2E998001E4157 /* RootView.swift in Sources */,
-				FA4142EB2FE2E998001E4157 /* BracketCalculatorView.swift in Sources */,
-				FA4142EC2FE2E998001E4157 /* DesignSystem.swift in Sources */,
-				FA4142ED2FE2E998001E4157 /* GroupStageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
